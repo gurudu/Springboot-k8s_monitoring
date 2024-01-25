@@ -21,4 +21,4 @@
         *  To push the image to docker hub registry or we can also push to minikube registry.
         *  Use kubernetes manifest yml files for deployment of app and database and services.
         *  The services are exposed outside the cluster using LoadBalancer.
-        *  Monitored using Prometheus and Grafana tools.
+        *  Monitoring using Prometheus and Grafana tools.
